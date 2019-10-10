@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Beans\SlnExamen.Beans\SlnExamen.Beans.csproj" />
+    <ProjectReference Include="..\..\Repository\SlnExamen.Repository\SlnExamen.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
